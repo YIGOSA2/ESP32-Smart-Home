@@ -44,8 +44,8 @@
 - Flutter SDK 3.0.0+
 - Dart SDK 3.0.0+
 - Android Studio / VS Code
-- Android设备或模拟器（Android 5.0+）
-**使用步骤**
+- Android设备或模拟器（Android 5.0+）<br>
+**使用步骤**<br>
 1.克隆项目后进入项目
 ```
 git clone -b software --single-branch git@github.com:YIGOSA2/ESP32-Smart-Home.git
