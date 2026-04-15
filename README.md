@@ -49,7 +49,7 @@
 1.克隆项目后进入项目
 ```
 git clone -b software --single-branch git@github.com:YIGOSA2/ESP32-Smart-Home.git
-cd smart_home_app
+cd ESP32-Smart-Home
 ```
 2.下载flutter后进入其文件夹并执行
 ```
