@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../frontend-basics/day3"
+		},
+		{
+			"name": "smart_home_esp32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
