@@ -91,7 +91,7 @@ code .
 编译并烧录。
 注意：烧录前打开src/main.cpp填写wifi ssid 密码以及你的mqtt服务器ip地址。
 ## 感谢阅读
-1.联系方式
-如果您在使用本项目时遇到了任何问题可以通过yigosa@duck.com联系我。
-2.反馈
+1.联系方式<br>
+如果您在使用本项目时遇到了任何问题可以通过yigosa@duck.com联系我。<br>
+2.反馈<br>
 欢迎提交issue或者Pull Request.
