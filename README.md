@@ -66,7 +66,7 @@ smart_home_esp32/
 |风扇继电器|IN|GPIO26|
 |舵机|信号线|GPIO14|
 ## 软件环境（Software Setup）
-1.**Vs code**：使用vs code进行程序编写；
+1.**Vs code**：使用vs code进行程序编写；<br>
 2.**PlatformIO**：在vs code上安装platformio插件，使用platformio烧录以及调试。
 ## 快速开始（Quick Start）
 ```
